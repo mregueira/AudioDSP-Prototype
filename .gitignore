@@ -1,3 +1,7 @@
 AudioDSP-1.0/History
 AudioDSP-1.0/__Previews
 AudioDSP-1.0/SCH/__Previews
+
+Simulations/FiltroDAC/*.log
+Simulations/FiltroDAC/*.op.raw
+Simulations/FiltroDAC/*.raw
