@@ -22,7 +22,7 @@ DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
-PowerPortNamesTakePriority=0
+PowerPortNamesTakePriority=1
 AutoSheetNumbering=1
 AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
@@ -268,6 +268,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document14]
+DocumentPath=PCB\AudioDSP-1.0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PEAOSMVV
 
 [Configuration1]
 Name=Sources
