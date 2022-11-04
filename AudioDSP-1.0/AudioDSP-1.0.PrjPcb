@@ -304,103 +304,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\NC Drill\AudioDSP-1.0.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GM9
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\NC Drill\AudioDSP-1.0.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\Gerber\AudioDSP-1.0.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\NC Drill\AudioDSP-1.0.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument24]
 DocumentPath=Project Outputs for AudioDSP-1.0\Design Rule Check - AudioDSP-1.html
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0 - PickAndPlace\Pick Place\Pick Place for AudioDSP-1.0.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -969,6 +873,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
