@@ -445,6 +445,10 @@ DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0 - BOM\Bill of Materia
 DItemRevisionGUID=
 
 [GeneratedDocument25]
+DocumentPath=Project Outputs for AudioDSP-1.0\Design Rule Check - AudioDSP-1.html
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0 - Pick and Place\Pick Place for AudioDSP-1.0(For Assembly).csv
 DItemRevisionGUID=
 
@@ -1472,7 +1476,7 @@ IndexStartValue7=1
 Suffix7=
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
@@ -1481,10 +1485,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=LIB2022 - Mechanicals.IntLib
+ComponentDesignItemID0=MH-3.75MM
+ComponentSymbolReference0=MH-3.75MM
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1498,6 +1508,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=MH-3.75mm-NP
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
