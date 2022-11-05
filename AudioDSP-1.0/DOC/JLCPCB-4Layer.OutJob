@@ -19,7 +19,7 @@ Name=JLCPCB-4Layer.OutJob
 Description=
 TargetOutputMedium=BOM
 VariantName=[No Variations]
-VariantScope=1
+VariantScope=0
 CurrentConfigurationName=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
@@ -63,7 +63,7 @@ OutputType3=Pick Place
 OutputName3=Generates pick and place files
 OutputCategory3=Assembly
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=For Assembly
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
@@ -76,7 +76,7 @@ OutputType4=BOM_PartType
 OutputName4=Bill of Materials
 OutputCategory4=Report
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=For Assembly
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
@@ -133,7 +133,7 @@ OutputPathOutputer4=[Output Custom]
 OutputPathOutputerPrefix4=
 OutputPathOutputerValue4==ProjectName+' - BOM'
 OutputFileName4=
-OutputFileNameMulti4=
+OutputFileNameMulti4==ProjectName+' - BOM - ' =VariantName
 UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=0
