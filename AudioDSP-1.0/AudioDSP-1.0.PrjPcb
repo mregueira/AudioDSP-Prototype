@@ -43,6 +43,7 @@ CrossRefPorts=0
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=For Assembly
 
 [Preferences]
 PrefsVaultGUID=
@@ -285,6 +286,172 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEAOSMVV
+
+[Document15]
+DocumentPath=DOC\JLCPCB-4Layer.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=C8DC0A9F-B780-4B1B-8C9C-A7B4364EE8A6
+Description=For Assembly
+AllowFabrication=0
+ParameterCount=0
+VariationCount=37
+Variation1=Designator=U1_POW|UniqueId=\KWDAQLSZ\IETZERIH|Kind=1|AlternatePart= 
+Variation2=Designator=D1_POW|UniqueId=\KWDAQLSZ\YORQDXPD|Kind=1|AlternatePart= 
+Variation3=Designator=D2_POW|UniqueId=\KWDAQLSZ\FEIQNGMI|Kind=1|AlternatePart= 
+Variation4=Designator=TP1_POW|UniqueId=\KWDAQLSZ\JMLTTCZF|Kind=1|AlternatePart= 
+Variation5=Designator=TP2_POW|UniqueId=\KWDAQLSZ\UAGGYXZD|Kind=1|AlternatePart= 
+Variation6=Designator=S1_UC|UniqueId=\UGZPOLJB\MKSFOEKO|Kind=1|AlternatePart= 
+Variation7=Designator=DL0_DSP|UniqueId=\NKICTGFB\IZVFTZEI|Kind=1|AlternatePart= 
+Variation8=Designator=DL1_DSP|UniqueId=\NKICTGFB\UHIZZKYJ|Kind=1|AlternatePart= 
+Variation9=Designator=DL2_DSP|UniqueId=\NKICTGFB\FKBKOXBQ|Kind=1|AlternatePart= 
+Variation10=Designator=DL3_DSP|UniqueId=\NKICTGFB\RRSXBJTM|Kind=1|AlternatePart= 
+Variation11=Designator=TP3|UniqueId=\NKICTGFB\ZTLSRNNY|Kind=1|AlternatePart= 
+Variation12=Designator=TP4|UniqueId=\NKICTGFB\BTDXABEN|Kind=1|AlternatePart= 
+Variation13=Designator=TP6|UniqueId=\STFXOHEG\MYZAMBNT|Kind=1|AlternatePart= 
+Variation14=Designator=TP8|UniqueId=\STFXOHEG\OYFEYXIM|Kind=1|AlternatePart= 
+Variation15=Designator=J1|UniqueId=\STFXOHEG\PCUFTRLE|Kind=1|AlternatePart= 
+Variation16=Designator=J2|UniqueId=\STFXOHEG\DBMIQNIL|Kind=1|AlternatePart= 
+Variation17=Designator=TP11|UniqueId=\STFXOHEG\PQDZMIFD|Kind=1|AlternatePart= 
+Variation18=Designator=TP10|UniqueId=\STFXOHEG\VXWZJCQX|Kind=1|AlternatePart= 
+Variation19=Designator=TP9|UniqueId=\STFXOHEG\TPSQXFID|Kind=1|AlternatePart= 
+Variation20=Designator=TP7|UniqueId=\STFXOHEG\XGZLYCOY|Kind=1|AlternatePart= 
+Variation21=Designator=TP5|UniqueId=\STFXOHEG\MTMDYTRJ|Kind=1|AlternatePart= 
+Variation22=Designator=J3|UniqueId=\MLUSOSWP\SQGYLJNI|Kind=1|AlternatePart= 
+Variation23=Designator=TP14|UniqueId=\MLUSOSWP\ZMMBTJER|Kind=1|AlternatePart= 
+Variation24=Designator=TP13|UniqueId=\MLUSOSWP\ZMWKRIEH|Kind=1|AlternatePart= 
+Variation25=Designator=TP12|UniqueId=\MLUSOSWP\WBQYXFWX|Kind=1|AlternatePart= 
+Variation26=Designator=TP15|UniqueId=\CFQVPTAG\CBMPQZPZ|Kind=1|AlternatePart= 
+Variation27=Designator=TP16|UniqueId=\CFQVPTAG\UTEJGFLU|Kind=1|AlternatePart= 
+Variation28=Designator=TP17|UniqueId=\CFQVPTAG\RVIXRBSN|Kind=1|AlternatePart= 
+Variation29=Designator=P1_TC|UniqueId=\LWZHOMHJ\DLWEPQKF|Kind=1|AlternatePart= 
+Variation30=Designator=P2_TC|UniqueId=\LWZHOMHJ\MDHJDHDP|Kind=1|AlternatePart= 
+Variation31=Designator=P3_TC|UniqueId=\LWZHOMHJ\FGTVRCWC|Kind=1|AlternatePart= 
+Variation32=Designator=S1_DSP|UniqueId=\NKICTGFB\EQHKUBIC|Kind=1|AlternatePart= 
+Variation33=Designator=S2_DSP|UniqueId=\NKICTGFB\ZWCUAUSU|Kind=1|AlternatePart= 
+Variation34=Designator=S3_DSP|UniqueId=\NKICTGFB\YXRKICAE|Kind=1|AlternatePart= 
+Variation35=Designator=U1_DAC_FILT|UniqueId=\CFQVPTAG\UADSYNIV|Kind=1|AlternatePart= 
+Variation36=Designator=Q1_DSP|UniqueId=\NKICTGFB\HFTPLFIH|Kind=1|AlternatePart= 
+Variation37=Designator=DP1_POW|UniqueId=\KWDAQLSZ\NYNBQUYU|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0\AudioDSP-1.0.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0 - BOM\Bill of Materials-AudioDSP-1.0(For Assembly).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for AudioDSP-1.0\Design Rule Check - AudioDSP-1.html
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for AudioDSP-1.0\AudioDSP-1.0 - Pick and Place\Pick Place for AudioDSP-1.0(For Assembly).csv
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -852,6 +1019,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1214,35 +1411,35 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$ComponentIndex_$SheetDesignator
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\UGZPOLJB
-DocumentName0=uC_Block.SchDoc
+UniqueIDPath0=
+DocumentName0=AudioDSP-1.0_top.SchDoc
 IsEnabled0=0
 SelectionScope0=All
-Order0=7
+Order0=1
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\KWDAQLSZ
-DocumentName1=Power_Block.SchDoc
+UniqueIDPath1=\UGZPOLJB
+DocumentName1=uC_Block.SchDoc
 IsEnabled1=0
 SelectionScope1=All
-Order1=6
+Order1=7
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\CFQVPTAG
-DocumentName2=DAC_OutFilter.SchDoc
-IsEnabled2=0
+UniqueIDPath2=\KWDAQLSZ
+DocumentName2=Power_Block.SchDoc
+IsEnabled2=1
 SelectionScope2=All
-Order2=2
+Order2=6
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=
-DocumentName3=AudioDSP-1.0_top.SchDoc
+UniqueIDPath3=\CFQVPTAG
+DocumentName3=DAC_OutFilter.SchDoc
 IsEnabled3=0
 SelectionScope3=All
-Order3=1
+Order3=2
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
@@ -1262,25 +1459,25 @@ Order5=5
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\STFXOHEG
-DocumentName6=Input_Connectors.SchDoc
+UniqueIDPath6=\LWZHOMHJ
+DocumentName6=Tone_Control_Block.SchDoc
 IsEnabled6=0
 SelectionScope6=All
-Order6=4
+Order6=8
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\LWZHOMHJ
-DocumentName7=Tone_Control_Block.SchDoc
-IsEnabled7=1
+UniqueIDPath7=\STFXOHEG
+DocumentName7=Input_Connectors.SchDoc
+IsEnabled7=0
 SelectionScope7=All
-Order7=8
+Order7=4
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
@@ -1289,10 +1486,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=LIB2022 - Mechanicals.IntLib
+ComponentDesignItemID0=MH-3.75MM
+ComponentSymbolReference0=MH-3.75MM
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1306,6 +1509,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=MH-3.75mm-NP
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
