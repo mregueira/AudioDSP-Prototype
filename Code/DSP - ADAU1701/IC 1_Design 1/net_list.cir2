@@ -1,0 +1,9 @@
+0 ICSigma100In1 O_C0_A0_P1_out Link3 O_C0_A0_P2_out Link6
+1 DCInpAlg1 O_C102_A0_P1_out Link0
+2 DCInpAlg3 O_C122_A0_P1_out Link1
+3 DCInpAlg5 O_C138_A0_P1_out Link2
+4 ParamToneIndexwStepAlgFix1 I_C84_A0_P1_in Link0 I_C84_A0_P2_in Link3 I_C84_A0_P4_in Link6 O_C84_A0_P3_out Link4 O_C84_A0_P5_out Link7
+5 ParamToneIndexwStepAlgFix3 I_C114_A0_P1_in Link1 I_C114_A0_P2_in Link4 I_C114_A0_P4_in Link7 O_C114_A0_P3_out Link5 O_C114_A0_P5_out Link8
+6 ParamToneIndexwStepAlgFix5 I_C140_A0_P1_in Link2 I_C140_A0_P2_in Link5 I_C140_A0_P4_in Link8 O_C140_A0_P3_out Link9 O_C140_A0_P5_out Link10
+7 ICSigma100Out1 I_C49_A0_P1_in Link9
+8 ICSigma100Out2 I_C90_A0_P1_in Link10
